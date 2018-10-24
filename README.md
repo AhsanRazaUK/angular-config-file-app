@@ -3,7 +3,7 @@ Angular environment based configuration files. Which can be used to store/change
 
 ## Getting Started
 I wanted to have a configuration file in my Angular application so that I can have flexiblity in development and deployment. 
-```<a href='https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/'>This blog</a>``` was really helpful. 
+<a href='https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/'>This blog</a> was really helpful. 
 I created this app in ``` Anuglar6 ``` following that.  
 
 ### Prerequisites
