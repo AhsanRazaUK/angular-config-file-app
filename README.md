@@ -3,7 +3,7 @@ Angular environment based configuration files. Which can be used to store api ur
 
 ## Getting Started
 I wanted to have a configuration file in my Angular application so that I can have flexiblity in development and deployment. 
-<a href='https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/'>This blog</a> was really helpful. This app is created in ``` Anuglar6 ``` following steps in that blog. 
+<a href='https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/'>This blog</a> was really helpful. This app is created in ``` Anuglar6 ``` using ``` HttpClient ```, following steps in that blog. 
 
 ### Prerequisites
 * <a href='https://docs.npmjs.com/getting-started/installing-node'>NodeJS and npm.</a>
