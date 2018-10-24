@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ConfigApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
@@ -27,6 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 =======
+
 # Angular Cofig File Application
 Angular environment based configuration files. Which can be used to store api url endpoints and other settings to be consumed in application.
 
@@ -56,5 +56,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 * <a href='https://blogs.msdn.microsoft.com/premier_developer/2018/03/01/angular-how-to-editable-config-files/'> Microsoft Premier Developer consultant Laurie Atkinson </a>
 
-
->>>>>>> e89aa4322963dbd0c0d8c98a5fed35bb7118e611
