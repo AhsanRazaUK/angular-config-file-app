@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { AppConfig } from './shared/app.config';
 
 @Component({
   selector: 'app-root',
@@ -6,5 +7,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'config-app';
+
+  title = "app-config";
+
+  constructor() {
+    this.title = AppConfig.settings.env.name;
+    console.log(AppConfig.settings.apiServer.metadata);
+  }
+
 }
